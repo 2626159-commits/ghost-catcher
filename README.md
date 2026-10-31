@@ -1,2 +1,7 @@
-# ghost-catcher
-**The Ghost Catcher** is an exciting action-adventure game where players take on the role of a brave ghost hunter whose mission is to capture spirits and protect the world from supernatural danger. Explore haunted houses, dark forests, abandoned buildings, and mysterious locations while searching for hidden ghosts. Use your ghost-catching equipment, such as a spirit vacuum, traps, flashlights, and special abilities, to find, weaken, and capture different types of ghosts. Players must avoid dangerous attacks, solve puzzles, collect clues, complete missions, unlock new areas, and discover the secrets behind each haunting. As you progress, you can upgrade your tools, improve your abilities, earn rewards, and face stronger and more powerful ghosts. The game combines exploration, strategy, action, and mystery to create a thrilling ghost-hunting experience.
+
+
+**Ghost Catcher** is a fast-paced 2D Halloween arcade game where players have 30 seconds to catch as many moving ghosts as possible by clicking or tapping them. The ghost constantly floats and bounces around a haunted nighttime scene filled with a glowing moon, stars, bats, tombstones, pumpkins, fog, and purple-blue atmospheric lighting.
+
+Each successful click increases the score and builds a combo multiplier. Missing the ghost breaks the combo, reduces the score, and creates a visual impact effect. As the timer gets closer to zero, the ghost becomes smaller and more difficult to catch. The game includes animated particles, screen effects, a countdown timer, a progress bar, a persistent high score, start and game-over screens, and a retry option.
+
+The game is designed as a simple but polished browser arcade experience with responsive mouse and touch controls. Its visual style combines spooky Halloween elements with colorful cartoon animation, making it easy to understand but challenging to master.
